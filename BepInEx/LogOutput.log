@@ -1,0 +1,407 @@
+[Message:   BepInEx] BepInEx 5.4.21.0 - valheim (25/06/2023 9:00:57 PM)
+[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2105 from Thunderstore
+[Info   :   BepInEx] Running under Unity v2020.3.45.6687953
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 9 plugins to load
+[Info   :   BepInEx] Loading [PlantEverything 1.13.6]
+[Info   :   BepInEx] Loading [Jotunn 2.12.1]
+[Info   :    Jotunn] Initializing LocalizationManager
+[Info   :    Jotunn] Initializing CommandManager
+[Info   :    Jotunn] Initializing InputManager
+[Info   :    Jotunn] Initializing SkillManager
+[Info   :    Jotunn] Initializing PrefabManager
+[Info   :    Jotunn] Initializing ItemManager
+[Info   :    Jotunn] Initializing PieceManager
+[Info   :    Jotunn] Initializing CreatureManager
+[Info   :    Jotunn] Initializing ZoneManager
+[Info   :    Jotunn] Initializing MockManager
+[Info   :    Jotunn] Initializing KitbashManager
+[Info   :    Jotunn] Initializing GUIManager
+[Info   :    Jotunn] Initializing KeyHintManager
+[Info   :    Jotunn] Initializing NetworkManager
+[Info   :    Jotunn] Initializing SynchronizationManager
+[Info   :    Jotunn] Initializing RenderManager
+[Info   :    Jotunn] Initializing MinimapManager
+[Info   :    Jotunn] Initializing UndoManager
+[Info   :    Jotunn] Jötunn v2.12.1 loaded successfully
+[Info   :   BepInEx] Loading [FarmGrid 0.5.0]
+[Info   :   BepInEx] Loading [MagicPlugin 1.5.4]
+[Info   : Unity Log] 06/25/2023 21:22:43: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 06/25/2023 21:22:43: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 06/25/2023 21:22:43: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 06/25/2023 21:22:43: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   :   BepInEx] Loading [Mineshafts 1.0.6]
+[Info   :   BepInEx] Loading [Valheim Plus 0.9.9.11]
+[Info   :Valheim Plus] Trying to load the configuration file
+[Error  : Unity Log] Error: Configuration not found. Trying to download latest config.
+[Info   : Unity Log] Default Configuration downloaded. Loading downloaded default settings.
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Bed
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Deconstruct
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FireSource
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Smelter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Windmill
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section SpinningWheel
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key serverSyncHotkeys
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Tameable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Pickable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FreePlacementRotation
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Shields
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FirstPerson
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GridAlignment
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section CraftFromChest
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section ValheimPlus
+[Info   : Unity Log]  Loading key mainMenuLogo
+[Info   : Unity Log]  Loading key serverBrowserAdvertisement
+[Info   : Unity Log] Loading config section PlayerProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section MonsterProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GameClock
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Brightness
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Chat
+[Info   : Unity Log]  Section not enabled
+[Info   :Valheim Plus] Configuration file loaded succesfully.
+[Warning:  HarmonyX] AccessTools.DeclaredMethod: Could not find method for type SE_Rested and name GetNearbyPieces and parameters 
+[Error  : Unity Log] ArgumentException: Undefined target method for patch method static System.Collections.Generic.IEnumerable<HarmonyLib.CodeInstruction> ValheimPlus.SE_Rested_GetNearbyPieces_Transpiler::Transpiler(System.Collections.Generic.IEnumerable<HarmonyLib.CodeInstruction> instructions)
+Stack trace:
+HarmonyLib.PatchClassProcessor.PatchWithAttributes (System.Reflection.MethodBase& lastOriginal) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.PatchClassProcessor.Patch () (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+Rethrow as HarmonyException: Patching exception in method null
+HarmonyLib.PatchClassProcessor.ReportException (System.Exception exception, System.Reflection.MethodBase original) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.PatchClassProcessor.Patch () (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Harmony.<PatchAll>b__11_0 (System.Type type) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.CollectionExtensions.Do[T] (System.Collections.Generic.IEnumerable`1[T] sequence, System.Action`1[T] action) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Harmony.PatchAll (System.Reflection.Assembly assembly) (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+HarmonyLib.Harmony.PatchAll () (at <474744d65d8e460fa08cd5fd82b5d65f>:0)
+ValheimPlus.ValheimPlusPlugin.Awake () (at <7c2de1882abc413da7273413f1d1b902>:0)
+UnityEngine.GameObject:AddComponent(Type)
+BepInEx.Bootstrap.Chainloader:Start()
+UnityEngine.UI.Image:OnCanvasHierarchyChanged()
+
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.1]
+[Info   :   BepInEx] Loading [Epic Loot 0.9.18]
+[Info   :   BepInEx] Loading [Equipment and Quick Slots 2.1.6]
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 06/25/2023 21:22:56: Starting to load scene:start
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 06/25/2023 21:22:58: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 06/25/2023 21:22:58: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 06/25/2023 21:22:59: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 06/25/2023 21:22:59: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 06/25/2023 21:22:59: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 06/25/2023 21:22:59: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 06/25/2023 21:22:59: Using environment steamid 892970
+
+[Info   : Unity Log] 06/25/2023 21:22:59: Using steam APPID:892970
+
+[Info   : Unity Log] 06/25/2023 21:22:59: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 06/25/2023 21:22:59: Steam initialized, persona:seufert
+
+[Info   : Unity Log] 06/25/2023 21:22:59: PlayFab custom ID set to "Steam_76561197987420675"
+
+[Info   : Unity Log] 06/25/2023 21:22:59: Using default prefs
+
+[Info   : Unity Log] 06/25/2023 21:22:59: Valheim version: 0.216.9 (network version 5)
+
+[Info   : Unity Log] 06/25/2023 21:22:59: Worldgenerator version setup:2
+
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 06/25/2023 21:22:59: Render threading mode:MultiThreaded
+
+[Warning: Unity Log] 06/25/2023 21:22:59: Missing audio clip in music respawn
+
+[Info   : Unity Log] 06/25/2023 21:22:59: Checking for installed DLCs
+
+[Info   : Unity Log] 06/25/2023 21:22:59: DLC:beta installed:False
+
+[Info   : Unity Log] 06/25/2023 21:23:01: Sending PlayFab login request (attempt 1)
+
+[Info   : Unity Log] 06/25/2023 21:23:01: Ticket is System.Byte[] of length 369
+
+[Info   : Unity Log] 06/25/2023 21:23:01: Session auth respons callback
+
+[Info   : Unity Log] 06/25/2023 21:23:01: Starting music menu
+
+[Info   : Unity Log] 06/25/2023 21:23:02: PlayFab logged in as "Steam_76561197987420675"
+
+[Info   : Unity Log] 06/25/2023 21:23:02: PlayFab local entity ID is E1032E7DAA1BE36F
+
+[Info   : Unity Log] 06/25/2023 21:23:13: show character selection
+
+[Info   : Unity Log] 06/25/2023 21:23:17: OnCharacterStart
+
+[Info   : Unity Log] 06/25/2023 21:23:24: Loading main scene
+
+[Info   : Unity Log] 06/25/2023 21:23:25: Steam initialized, persona:seufert
+
+[Info   : Unity Log] 06/25/2023 21:23:25: PlayFab custom ID set to "Steam_76561197987420675"
+
+[Info   : Unity Log] 06/25/2023 21:23:25: Using default prefs
+
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 06/25/2023 21:23:25: Loading player profile chris
+
+[Info   : Unity Log] 06/25/2023 21:23:25: isModded: True
+
+[Info   : Unity Log] 06/25/2023 21:23:25: Zonesystem Awake 1219
+
+[Info   : Unity Log] 06/25/2023 21:23:25: DungeonDB Awake 1219
+
+[Info   : Unity Log] 06/25/2023 21:23:25: Steam initialized, persona:seufert
+
+[Info   : Unity Log] 06/25/2023 21:23:25: Worldgenerator version setup:2
+
+[Info   : Unity Log] Registered 'advize.PlantEverything ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'blacks7ar.MagicPlugin ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'blacks7ar.MagicPlugin ItemManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'GoldenJude_Mineshafts ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
+[Info   :Jotunn.Managers.PrefabManager] Adding 3 custom prefabs to the ZNetScene
+[Info   : Unity Log] 06/25/2023 21:23:28: Audioman already exist, destroying self
+
+[Info   : Unity Log] 06/25/2023 21:23:28: Checking for installed DLCs
+
+[Info   : Unity Log] 06/25/2023 21:23:28: DLC:beta installed:False
+
+[Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
+[Info   : Unity Log] 06/25/2023 21:23:34: Zonesystem Start 1219
+
+[Info   : Unity Log] 06/25/2023 21:23:35: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+
+[Info   : Unity Log] 06/25/2023 21:23:35: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+
+[Info   : Unity Log] 06/25/2023 21:23:35: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+
+[Info   : Unity Log] 06/25/2023 21:23:35: DungeonDB Start 1219
+
+[Info   : Unity Log] 06/25/2023 21:23:37: ZRpc timeout set to 30s 
+
+[Info   : Unity Log] 06/25/2023 21:23:37: Load world: EternaLeigh (EternaLeigh)
+
+[Info   : Unity Log] 06/25/2023 21:23:37: Loading 13021 zdos, my sessionID: 3323297925, data version: 31
+
+[Info   : Unity Log] 06/25/2023 21:23:37: Creating ZDOs
+
+[Info   : Unity Log] 06/25/2023 21:23:37: Loading in ZDOs
+
+[Info   : Unity Log] 06/25/2023 21:23:37: Adding to Dictionary
+
+[Info   : Unity Log] 06/25/2023 21:23:37: Adding to Sectors
+
+[Info   : Unity Log] 06/25/2023 21:23:37: Connecting Portals, Spawners & ZSyncTransforms
+
+[Info   : Unity Log] 06/25/2023 21:23:37: Loaded 10084 locations
+
+[Info   : Unity Log] 06/25/2023 21:23:37: Unloading unused assets
+
+[Info   : Unity Log] 06/25/2023 21:23:38: Starting respawn
+
+[Info   : Unity Log] 06/25/2023 21:23:38: Session auth respons callback
+
+[Info   : Unity Log] 06/25/2023 21:23:48: Unpacking compressed mapdata 8866
+
+[Info   : Unity Log] 06/25/2023 21:23:49: tip:$loadscreen_tip14
+
+[Info   : Unity Log] 06/25/2023 21:23:51: Placed locations in zone 0,-8  duration 45.5636 ms
+
+[Info   : Unity Log] 06/25/2023 21:23:51: Placed locations in zone 4,-6  duration 4.014 ms
+
+[Info   : Unity Log] 06/25/2023 21:23:53: Placed locations in zone 3,-2  duration 0 ms
+
+[Info   : Unity Log] 06/25/2023 21:23:53: Placed locations in zone 1,-8  duration 6.6468 ms
+
+[Info   : Unity Log] 06/25/2023 21:23:54: Placed locations in zone 3,-7  duration 3.0478 ms
+
+[Info   : Unity Log] 06/25/2023 21:23:54: Placed locations in zone 4,-7  duration 0 ms
+
+[Info   : Unity Log] 06/25/2023 21:23:55: Placed locations in zone 5,-4  duration 0 ms
+
+[Info   : Unity Log] 06/25/2023 21:23:55: Placed locations in zone 6,-3  duration 0 ms
+
+[Info   : Unity Log] 06/25/2023 21:23:56: Placed locations in zone 5,0  duration 7.5622 ms
+
+[Info   : Unity Log] 06/25/2023 21:23:58: Spawned after 8.019994
+
+[Info   : Unity Log] 06/25/2023 21:23:58: Skipping unloading unused assets
+
+[Info   : Unity Log] 06/25/2023 21:23:58: Minimap: Adding unique location (-127.7, 76.9, -188.2)
+
+[Info   : Unity Log] 06/25/2023 21:24:03: Spawned Deer x 3
+
+[Info   : Unity Log] 06/25/2023 21:24:03: Spawned Deer x 1
+
+[Info   : Unity Log] 06/25/2023 21:24:03: Spawned Boar x 3
+
+[Info   : Unity Log] 06/25/2023 21:24:03: Spawned Greyling x 1
+
+[Info   : Unity Log] 06/25/2023 21:24:03: Spawned Greyling x 1
+
+[Info   : Unity Log] 06/25/2023 21:24:05: Starting music morning
+
+[Info   : Unity Log] 06/25/2023 21:24:27: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 06/25/2023 21:24:29: Placed fire_pit
+
+[Info   : Unity Log] 06/25/2023 21:24:29: Queue unlock msg:$msg_newrecipe:$item_trophy_skeleton
+
+[Info   : Unity Log] 06/25/2023 21:24:29: Queue unlock msg:$msg_newrecipe:$item_trophy_troll
+
+[Info   : Unity Log] 06/25/2023 21:24:29: Queue unlock msg:$msg_newrecipe:$item_trophy_surtling
+
+[Info   : Unity Log] 06/25/2023 21:24:29: Queue unlock msg:$msg_newpiece:$mod_epicloot_assets_enchanter
+
+[Info   : Unity Log] 06/25/2023 21:24:29: Queue unlock msg:$msg_newpiece:$mod_epicloot_assets_enchantingtable
+
+[Info   : Unity Log] 06/25/2023 21:24:29: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 06/25/2023 21:24:29: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 06/25/2023 21:24:29: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 06/25/2023 21:24:39: Starting music meadows
+
+[Info   : Unity Log] 06/25/2023 21:24:39: Resumed music meadows at 0
+
+[Info   : Unity Log] 06/25/2023 21:25:30: Setting location music as played
+
+[Info   : Unity Log] 06/25/2023 21:25:49: Disabling PlayerBase  character_trigger
+
+[Info   : Unity Log] 06/25/2023 21:26:35: Game - OnApplicationQuit
+
+[Info   : Unity Log] 06/25/2023 21:26:35: Shuting down
+
+[Info   : Unity Log] 06/25/2023 21:26:35: Uncompressed size 8389041
+
+[Info   : Unity Log] 06/25/2023 21:26:35: Compressed size 8866
+
+[Info   : Unity Log] saving started
+[Info   : Unity Log] 06/25/2023 21:26:35: Cloud Save: 43652 bytes. /characters/chris.fch.new
+
+[Info   : Unity Log] 06/25/2023 21:26:35: Steam writing file chunks 1 / 1, (43652 bytes)
+
+[Info   : Unity Log] 06/25/2023 21:26:35: Steam Cloud Move: 43107 bytes. /characters/chris.fch -> /characters/chris.fch.old
+
+[Info   : Unity Log] 06/25/2023 21:26:35: Steam writing file chunks 1 / 1, (43107 bytes)
+
+[Info   : Unity Log] 06/25/2023 21:26:35: Steam Cloud Move: 43652 bytes. /characters/chris.fch.new -> /characters/chris.fch
+
+[Info   : Unity Log] 06/25/2023 21:26:35: Steam writing file chunks 1 / 1, (43652 bytes)
+
+[Info   : Unity Log] 06/25/2023 21:26:35: Considering autobackup. World time: 162.9, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 06/25/2023 21:26:35: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] saving finished
+[Info   : Unity Log] 06/25/2023 21:26:35: ZNet Shutdown
+
+[Info   : Unity Log] 06/25/2023 21:26:35: PrepareSave: clone done in 31ms
+
+[Info   : Unity Log] 06/25/2023 21:26:35: PrepareSave: ZDOExtraData.PrepareSave done in 19 ms
+
+[Info   : Unity Log] 06/25/2023 21:26:36: Unloading unused assets
+
+[Info   : Unity Log] 06/25/2023 21:26:36: Sending disconnect msg
+
+[Warning: Unity Log] 06/25/2023 21:26:40: Local player destroyed
+
+[Info   : Unity Log] 06/25/2023 21:26:40: ZNet OnDestroy
+
+[Info   : Unity Log] 06/25/2023 21:26:40: Net scene destroyed
+
+[Info   : Unity Log] 06/25/2023 21:26:40: Steam manager on destroy
+
