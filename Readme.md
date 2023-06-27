@@ -17,6 +17,7 @@ Download zip from github, and extract into your valheim game directory
 - `git init`
 - `git remote add origin https://github.com/cseufert/valheim-mods`
 - `git pull origin main`
+- `git branch --set-upstream-to=origin/main main`
 
 **Update Installation**
 
