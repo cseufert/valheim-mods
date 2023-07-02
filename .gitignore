@@ -1,9 +1,14 @@
+# Cached Files
 MonoBleedingEdge/
 valheim_Data/
 BepInEx/cache/
 
+# Game Files
 BepInEx/LogOutput.log
 steam_appid.txt
 UnityCrashHandler64.exe
 UnityPlayer.dll
 valheim.exe
+
+# Server Only Config
+BepInEx/config/games.nwest.valheim.discordconnector
